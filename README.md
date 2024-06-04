@@ -2,6 +2,12 @@
 
 Salama is an innovative application designed to empower communities in combatting Gender-Based Violence (GBV). By leveraging technology, Salama provides tools and resources to support individuals affected by GBV, as well as community members, advocates, and organizations working to address this critical issue.
 
+# **Files and Folders**
+
+**salama_app**:This folder contains all the codes used for creation of this app.
+
+**SALAMA.pdf**:This is my pitch deck
+
 # **Features**
 
 **Empowering Communities**: Salama empowers communities to take action against GBV by providing accessible resources and support networks.
