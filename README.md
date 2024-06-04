@@ -16,5 +16,5 @@ Salama is an innovative application designed to empower communities in combattin
 
 
 # Contributions
-Salama is an open-source project, and contributions are welcome. If you're interested in improving the application or adding new features, please refer to the contribution guidelines for more information.
+Salama is an open-source project, and contributions are welcome. 
 
